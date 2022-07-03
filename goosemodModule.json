@@ -1,0 +1,8 @@
+{
+  "main": "index.js",
+  "name": "Nitro Killer",
+  "description": "Hides all nitro-related ads",
+  "tags": ["nitro"],
+  "authors": ["342247854875738113"],
+  "version": "1.0.0"
+}
